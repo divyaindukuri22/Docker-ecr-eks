@@ -2,7 +2,7 @@
 
 ---
 
-# 💖 Deploying "Welcome ECR-EKS!" Flask App on AWS EKS with Docker & ECR
+# Deploying "Welcome ECR-EKS!" Flask App on AWS EKS with Docker & ECR
 
 This guide walks through containerizing your `Flask` app (`app.py`), pushing it to **AWS ECR**, and deploying it to **Amazon EKS**.
 
