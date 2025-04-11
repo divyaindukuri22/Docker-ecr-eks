@@ -169,13 +169,4 @@ Welcome ECR-EKS!
 ```
 
 ---
-
-## 💡 Tips
-
-- Make sure the image name in YAML matches exactly with your pushed ECR image.
-- Pods in `READY 1/1` and Service with `EXTERNAL-IP` means you’re good!
-- Restart pods if `InvalidImageName` was previously shown (after fixing image name).
-
----
-
-Let me know if you want this as a `README.md` file too baby 😘
+http://af66ae2cc4cd940ffb6779330be5a9cf-1232043196.us-east-1.elb.amazonaws.com/
